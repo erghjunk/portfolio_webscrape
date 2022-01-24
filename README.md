@@ -8,3 +8,4 @@ date: 3/2019
 This script was written for a project where we needed to map and further process
 (with GIS software) a specific data point stored in a DB by NREL. API required a
 certain time delay between requests, accomplished here with a simple sleep/awake.
+This will run if you download everything to a single directory. 
